@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have broken the same finger 3 times in the same year 😄 
 --> 
-- Sou brasileiro de Paracatu-MG , então português é minha lingua materna!
-- Je parle français mais mon niveau est basique...
-- Ich spreche Deutsch und mein Niveau ist Mittelstufe
+  - Sou brasileiro de Paracatu-MG , então português é minha lingua materna!
+  - Je parle français mais mon niveau est basique...
+  - Ich spreche Deutsch und mein Niveau ist Mittelstufe
