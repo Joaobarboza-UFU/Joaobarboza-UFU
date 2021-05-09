@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Linkedin : https://www.linkedin.com/in/jo%C3%A3o-barboza-a8b8a2195/
   - E-mail : joaobarboza.ufu@gmail.com
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have broken the same finger 3 times in the same year 😄 
   - Sou brasileiro de Paracatu-MG , então português é minha lingua materna!
   - Je parle français mais mon niveau est basique...
