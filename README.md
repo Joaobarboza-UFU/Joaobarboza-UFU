@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 --> 
-- Worked at Exacode as a Back-end (NodeJs , Java , SQL and AWS) Intern for 6 months.
+- Worked at Exacode as a Back-end (NodeJs , Java , SQL and AWS) Intern for 7 months.
+- Working as a Data Scientist/Data Engineer at Tenbu (Remotely)
 - 🔭 I’m currently working at EPTA - Aeronautical technology and propulsion team (Federal University of Uberlandia) developing avionic solutions,specially working with embedded circuits and at Tenbu as a Trainee data engineer .
 - 🌱 I’m currently learning more about SQL and non relational databases as a Scientific research student with Professor Márcio José da Cunha , Studying Data Engineering with Google Cloud , Machine Learning development With Keras and Tensor Flow.
 - 👯 I’m looking to collaborate on Machine Learning and AI projects and Open source software
