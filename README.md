@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 --> 
+- Computer Engineering Bachelor Degree from Federal University of Uberlandia
+- MBA (Solutions Architecture) at FIAP
 - Worked at Exacode as a Back-end (NodeJs , Java , SQL and AWS) Intern for 7 months.
 - Worked as a Data Scientist/Data Engineer at a consulting company Tenbu (Remotely) for 1 year and 8 Months
 - Working as a Data Engineer Tech Lead at a Finances company Since January 2023
